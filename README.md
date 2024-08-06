@@ -28,3 +28,9 @@ Do you want to (e)ncrypt or (d)ecrypt? e
 Enter your message: Hello, World!
 Enter shift value: 3
 Encrypted message: Khoor, Zruog!
+```
+
+## About the Internship
+This project is part of the Cyber Security Internship at Prodigy InfoTech. During this internship, participants gain hands-on experience in various aspects of cyber security, including encryption algorithms, network security, and ethical hacking. The internship provides valuable insights and practical skills essential for a career in cyber security.
+
+
