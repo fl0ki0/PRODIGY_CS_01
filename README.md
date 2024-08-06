@@ -25,9 +25,9 @@ This repository contains a Python program that implements the Caesar Cipher algo
 ## Example
 ```plaintext
 Do you want to (e)ncrypt or (d)ecrypt? e
-Enter your message: Hello, World!
+Enter your message: cybersecurity 
 Enter shift value: 3
-Encrypted message: Khoor, Zruog!
+Encrypted message: fbehuvhfxulwb
 ```
 
 ## About the Internship
